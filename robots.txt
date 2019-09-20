@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tabaejigho.chasethomas.tech/sitemap.xml
